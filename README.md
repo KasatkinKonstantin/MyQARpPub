@@ -1,2 +1,2 @@
 # MyQARpPub
-Public repository fo QAP73
+Public repository for homeworks of QAP73
